@@ -5,6 +5,7 @@
 3. Pede-se:
   
   3.1 Elaborar o GFC do código do método avalia(), implementado na classe Avaliacao.java
+  ![gfc](GFC_AVALIACAO.PNG)
   3.2 Identificar os casos de teste necessários para a cobertura do critério todos os caminhos, conforme descrito nos slides. Os casos de testes devem conter os valores da variáveis e indicar qual caminho está cobrindo. O caminho deve ser descrito através da sequencia de nós, por onde o fluxo passa.
   ## Resposta
   ### caminho1 (base)
